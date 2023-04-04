@@ -1,6 +1,7 @@
 
 '''
 MPI Assignements
+Mourad EZZEBDI
 '''
 from mpi4py import MPI
 
